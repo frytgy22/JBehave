@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80699fd1-3e0e-4baf-aa62-fde9e2c12f75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JBehave Story" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1akYr4syhhkEYC1HkMYOPx9szwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/stories" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.lebedeva" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/stories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/stories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CellLifeCycle">
+    <configuration name="CellLifeCycle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JBehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.CellLifeCycle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncreaseStoryLiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JBehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.IncreaseStoryLiveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JBehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Test1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.whenIGiveTheSecondNumberAsnumber2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JBehave" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Test1" />
+      <option name="METHOD_NAME" value="whenIGiveTheSecondNumberAsnumber2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CellLifeCycle" />
+        <item itemvalue="JUnit.Test1" />
+        <item itemvalue="JUnit.IncreaseStoryLiveTest" />
+        <item itemvalue="JUnit.Test1.whenIGiveTheSecondNumberAsnumber2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80699fd1-3e0e-4baf-aa62-fde9e2c12f75" name="Default Changelist" comment="" />
+      <created>1587281253943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587281253943</updated>
+      <workItem from="1587281258359" duration="181000" />
+      <workItem from="1587281600086" duration="350000" />
+      <workItem from="1587282170085" duration="2900000" />
+      <workItem from="1587285454241" duration="13077000" />
+      <workItem from="1587316836742" duration="2303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1217" y="198" width="374" height="581" key="#com.intellij.ide.util.MemberChooser" timestamp="1587303335459">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1217" y="198" width="374" height="581" key="#com.intellij.ide.util.MemberChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1587303335459" />
+    <state x="1189" y="380" width="494" height="296" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587316277658">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1189" y="380" width="494" height="296" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.34.1920.1046@0.34.1920.1046" timestamp="1587316277658" />
+    <state x="906" y="257" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587313251728">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="906" y="257" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1587313251728" />
+    <state width="1233" height="219" key="GridCell.Tab.0.bottom" timestamp="1587319163426">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1587319163426" />
+    <state width="1233" height="219" key="GridCell.Tab.0.center" timestamp="1587319163425">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1587319163425" />
+    <state width="1233" height="219" key="GridCell.Tab.0.left" timestamp="1587319163425">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1587319163425" />
+    <state width="1233" height="219" key="GridCell.Tab.0.right" timestamp="1587319163425">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1587319163425" />
+    <state x="854" y="184" width="1022" height="736" key="SettingsEditor" timestamp="1587285252283">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="854" y="184" width="1022" height="736" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1587285252283" />
+  </component>
+</project>

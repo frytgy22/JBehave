@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>stories.cell_life_cycle</title>
+<style type="text/css" media="all">
+@import url( "./style/jbehave-core.css" );
+</style>
+</head>
+<body>
+ 
+<script type="syntaxhighlighter" class="brush: xml"><![CDATA[
+<story path="stories/cell_life_cycle.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="As a">Conway&apos;s Game of Life universe</inOrderTo>
+  <asA keyword="I want to">make cells evolve</asA>
+  <iWantTo keyword="So that">we can see some beautiful patterns</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="scenario reproduction">
+<step outcome="successful">Given a dead cell</step>
+<step outcome="successful">And the cell has 3 live neighbours</step>
+<step outcome="successful">When the cell evolves to the next generation</step>
+<step outcome="successful">Then the cell is now alive</step>
+</scenario>
+<scenario keyword="Scenario:" title="scenario death by over population">
+<step outcome="successful">Given a live cell</step>
+<step outcome="successful">And the cell has 4 live neighbours</step>
+<step outcome="successful">When the cell evolves to the next generation</step>
+<step outcome="successful">Then the cell is now dead</step>
+</scenario>
+</story>
+
+]]></script>
+</body>
+<!--  SyntaxHighlighter resources:  should be included at end of body -->
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shCore.css"/>
+<link rel="stylesheet" type="text/css" href="./style/sh-3.0.83/shThemeRDark.css"/>
+<script language="javascript" src="./js/sh-3.0.83/shCore.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushBash.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushCss.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushDiff.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushGroovy.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJava.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushJScript.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPlain.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushPython.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushRuby.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushScala.js"></script>
+<script language="javascript" src="./js/sh-3.0.83/shBrushXml.js"></script>
+<script language="javascript" src="./js/shBrushBdd.js"></script>
+<script type="text/javascript">
+    SyntaxHighlighter.defaults['gutter'] = false;
+    SyntaxHighlighter.defaults['toolbar'] = false;    
+    SyntaxHighlighter.all();
+</script>
+</html>
